@@ -194,24 +194,5 @@ To create a release:
 
 ---
 
-## Testing Checklist
-
-Before submitting, verify all features work:
-
-- [ ] App launches with voice greeting
-- [ ] ASCII art displays in header
-- [ ] Bot asks for name and uses it in responses
-- [ ] Typing "add a task to..." adds a task visible in Task Panel
-- [ ] Adding a task updates tasks.json
-- [ ] Marking a task complete updates tasks.json
-- [ ] Deleting a task removes it from tasks.json
-- [ ] Typing "start quiz" launches quiz with questions one at a time
-- [ ] Each quiz question shows feedback and explanation
-- [ ] Final score displays with appropriate message
-- [ ] Typing "show activity log" displays timestamped entries
-- [ ] Typing "tell me more" continues the current topic
-- [ ] All Part 2 features (sentiment, memory, keywords) still work
-- [ ] No crashes on invalid input
-
 ---
 
